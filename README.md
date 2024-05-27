@@ -1,14 +1,12 @@
 1. Introduction
-This project is an exemplary demonstration of applying advanced Deep Learning techniques for time-series analysis in air pollution (PM2.5) forecasting. It features a sophisticated end-to-end ML pipeline that integrates MLOps practices to ensure scalability, maintainability, and efficient deployment in production environments.
+This project is a demonstration of applying Deep Learning techniques in time-series analysis for air pollution (PM2.5) forecasting. It features a sophisticated end-to-end ML pipeline that integrates MLOps practices to ensure scalability, maintainability, and efficient deployment in production environments.
 
 2. Project Setup
 Version Control and Collaboration: Leveraged GitHub for robust version control, enabling seamless collaboration and code management.
-
 Environment Consistency: Established a controlled Python environment with virtualenv, detailed in a requirements.txt file for replicability across development and production stages.
 
 3. Advanced Architectural Design
 Modular Architecture: Adopted a modular design, segregating functionalities into distinct modules—data ingestion, transformation, model training, and prediction—to manage complexities effectively and enhance scalability.
-
 Exception Handling and Systematic Logging: Implemented comprehensive exception handling and a logging system to ensure high application reliability and operational transparency for real-time monitoring.
 
 4. Technical Implementation Phases
@@ -16,7 +14,7 @@ Robust Data Handling: Engineered a highly efficient data ingestion and transform
 
 Exploratory Data Analysis (EDA) and Feature Engineering: Performed deep exploratory analysis and innovative feature engineering to inform and optimize model selection and hyperparameter tuning.
 
-Advanced Model Training Techniques: trained multiple deep learning models and utilized grid search for hyperparameter optimization and model selection. Evaluation metrics such as RMSE, MAE and R2 were used to select the optimal model.
+Advanced Model Training Techniques: trained multiple deep learning models and utilized grid search for hyperparameter optimization and model selection. Evaluation metrics such as RMSE, MAE and R2-score were used to select the optimal model.
 
 Predictive Pipeline: Constructed a sophisticated prediction pipeline capable of processing real-time data inputs and generating predictions with high accuracy and speed.
 
