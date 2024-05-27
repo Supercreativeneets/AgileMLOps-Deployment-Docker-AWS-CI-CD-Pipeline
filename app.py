@@ -8,6 +8,7 @@ from src.pipeline.predict_pipeline import PredictPipeline
 
 application = Flask(__name__)
 
+
 app = application
 
 def get_dates():
