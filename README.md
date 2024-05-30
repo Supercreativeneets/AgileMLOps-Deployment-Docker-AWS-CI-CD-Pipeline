@@ -18,3 +18,11 @@ This project is a demonstration of applying Deep Learning techniques in time-ser
 ## 5. MLOps and CI/CD Integration
 * **Continuous Integration/Continuous Deployment (CI/CD):** Established a CI/CD pipeline using GitHub Actions to automate testing, building, and deployment phases, significantly accelerating the development cycle and ensuring high-quality releases.
 * **Docker and AWS Deployment:** Utilized Docker for application containerization, achieving consistency across various environments. Integrated with AWS services, including EC2 and ECR, to facilitate a scalable and secure deployment.
+
+## 6. Web Application
+
+* **Flask Application:** Developed a dynamic Flask web application to serve the forecasting, integrating the backend ML model with a frontend interface.
+
+## 7. Conclusion
+
+This project not only demonstrates the effective deployment of time series prediction application but also showcases the integration of cutting-edge MLOps practices and technologies. 
