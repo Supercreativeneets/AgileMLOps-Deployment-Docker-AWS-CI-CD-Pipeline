@@ -12,7 +12,7 @@ This project is a demonstration of applying Deep Learning techniques in time-ser
 ## 4. Technical Implementation Phases
 * **Robust Data Handling:** Engineered a highly efficient data ingestion and transformation framework using Python’s dataclasses and scikit-learn pipelines, ensuring data integrity and consistency.
 * **Exploratory Data Analysis (EDA) and Feature Engineering:** Performed deep exploratory analysis and innovative feature engineering to inform and optimize model selection and hyperparameter tuning.
-* **Advanced Model Training Techniques:** trained multiple deep learning models and utilized grid search for hyperparameter optimization and model selection. Evaluation metrics such as RMSE, MAE and R2-score were used to select the optimal model.
+* **Advanced Model Training Techniques:** trained multiple deep learning models and utilized custom grid search for hyperparameter optimization and model selection. Evaluation metrics such as RMSE, MAE and R2-score were used to select the optimal model.
 * **Predictive Pipeline:** Constructed a sophisticated prediction pipeline capable of processing historical data inputs and generating predictions with high accuracy and speed.
 
 ## 5. MLOps and CI/CD Integration
